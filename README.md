@@ -2,7 +2,7 @@
 Kelompok 1
 Bolang, Geovanny Hezkie (Ketua)
 Anggota :
-Tumewu, Mawar Sharon
-Kanter, Jeri Leri
-Rainer Cristian
-Makawekes, Yanes Theodora
+1.Tumewu, Mawar Sharon
+2.Kanter, Jeri Leri
+3.Rainer Cristian
+4.Makawekes, Yanes Theodora
