@@ -1,4 +1,4 @@
-let people = ["Greg", "Mary", "Devon", "James"];
+let people = ["Schivo", "Mary", "Devon", "James"];
 
 console.log(people)
 
